@@ -1,16 +1,23 @@
-# SOCKS5 proxies list
+# Real-time SOCKS5 Proxy List
 
-### Auto-updateble SOCKS5 proxies list. Update every 15 minutes
+A free, auto-updating list of public SOCKS5 proxies, checked and updated every 15 minutes.
 
-> **Last updated at**: ***%time***
+---
 
-> **Amount of live [proxies with timeout up to 10s](socks5_10000ms.txt)**: ***%a10***
+### 📊 Current Status
 
-> **Amount of live [proxies with timeout up to 5s](socks5_5000ms.txt)**: ***%a5***
+> **Last Updated**: **`2025-11-11 20:57:26 UTC`**
 
-> **Amount of live [proxies with timeout up to 3s](socks5_3000ms.txt)**: ***%a3***
+This list is categorized by response time, allowing you to choose the right proxies for your needs.
 
-> **Amount of [live proxies with timeout up to 1s](./socks5_1000ms.txt)**: ***%a1***
+| Latency Tier (Max Response Time) | Live Proxies Found | Raw List File |
+| :--- | :---: | :--- |
+| ⚡️ **Elite (< 1000ms)** | **`6`** | [socks5_1000ms.txt](./socks5_1000ms.txt) |
+| 🚀 **Fast (< 3000ms)** | **`188`** | [socks5_3000ms.txt](./socks5_3000ms.txt) |
+| ✅ **Standard (< 5000ms)** | **`220`** | [socks5_5000ms.txt](./socks5_5000ms.txt) |
+| 🐢 **All Live Proxies (< 10000ms)**| **`551`** | [socks5_10000ms.txt](./socks5_10000ms.txt) |
 
-#### If theese proxies was helpful, I will be glad to see your star on this repo.
 
+### ⭐ Enjoying This?
+
+If you find this service useful, please consider starring this repository! It helps a lot.
