@@ -6,16 +6,16 @@ A free, auto-updating list of public SOCKS5 proxies, checked and updated every 1
 
 ### 📊 Current Status
 
-> **Last Updated**: **`2025-12-30 04:00:27 UTC`**
+> **Last Updated**: **`2025-12-30 04:18:35 UTC`**
 
 This list is categorized by response time, allowing you to choose the right proxies for your needs.
 
 | Latency Tier (Max Response Time) | Live Proxies Found | Raw List File |
 | :--- | :---: | :--- |
-| ⚡️ **Elite (< 1000ms)** | **`83`** | [socks5_1000ms.txt](./socks5_1000ms.txt) |
-| 🚀 **Fast (< 3000ms)** | **`193`** | [socks5_3000ms.txt](./socks5_3000ms.txt) |
-| ✅ **Standard (< 5000ms)** | **`324`** | [socks5_5000ms.txt](./socks5_5000ms.txt) |
-| 🐢 **All Live Proxies (< 10000ms)**| **`724`** | [socks5_10000ms.txt](./socks5_10000ms.txt) |
+| ⚡️ **Elite (< 1000ms)** | **`63`** | [socks5_1000ms.txt](./socks5_1000ms.txt) |
+| 🚀 **Fast (< 3000ms)** | **`257`** | [socks5_3000ms.txt](./socks5_3000ms.txt) |
+| ✅ **Standard (< 5000ms)** | **`338`** | [socks5_5000ms.txt](./socks5_5000ms.txt) |
+| 🐢 **All Live Proxies (< 10000ms)**| **`810`** | [socks5_10000ms.txt](./socks5_10000ms.txt) |
 
 
 ### ⭐ Enjoying This?
